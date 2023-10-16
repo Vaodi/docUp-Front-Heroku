@@ -1,0 +1,60 @@
+.email2{
+    display:flex;
+}
+
+.email-section{
+    display: flex;
+    flex-direction: column;
+    flex:10;
+    margin-left: 4%;
+}
+
+.titleForEmail{
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    text-align: center;
+}
+
+
+.emailTemplate{
+    height: 100%;
+    border-radius: 10px;    
+    padding: 2%;
+    padding-left: 45px;
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    flex:10;
+    margin-right: 17px;
+}
+
+.deadlineContainer {
+   // background-color: blue;
+    //justify-content: center;
+    //align-items: center;
+ 
+    margin-top: 4%;
+    margin-left: 33%;
+    margin-bottom: 4%;
+  
+}
+
+.clientContainer{
+  
+    margin-left: 2%;
+    margin-bottom: 4%;
+    margin-top:3%;
+
+  
+}
+
+.buttonContainer {
+    display: flex;
+    margin-left: 2%;
+    gap:78%;
+}
+
+.monster{
+    margin-top:1%;
+}

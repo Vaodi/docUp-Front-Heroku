@@ -1,0 +1,71 @@
+.saveButton{
+
+    margin-top: 3%;
+    margin-left: 65%;
+}
+
+.aucunFichier{
+ 
+    background-color: rgba(255, 217, 0, 0.149);
+    color: rgb(255, 157, 0);
+    border: 1px solid rgba(255, 217, 0, 0.149);
+    border-radius: 5px;
+    padding: 0.5%;
+    padding-left: 2%;
+   padding-right: 2%;
+}
+
+.label {
+    font-size: 19px; // Define your label styles here
+    margin-left: 60%;
+    text-transform: uppercase;
+    &.green-label {
+        background-color: rgba(0, 255, 42, 0.05);
+      color: green;
+      border: 1px solid rgba(2, 160, 2, 0.286);
+      border-radius: 5px;
+      padding: 0.5%;
+      padding-left: 2%;
+     padding-right: 2%;
+    }
+  
+    &.red-label {
+        background-color: rgba(255, 0, 0, 0.05);
+        color: crimson;
+        border: 1px solid rgba(213, 5, 5, 0.286);
+        border-radius: 5px;
+        padding: 0.5%;
+        padding-left: 2%;
+       padding-right: 2%;
+       
+       
+       
+    }
+    &.blue-label {
+        background-color: rgba(0, 140, 255, 0.05);
+        color: rgb(23, 20, 220);
+        border: 1px solid rgba(5, 116, 213, 0.286);
+        border-radius: 5px;
+        padding: 0.5%;
+        padding-left: 2%;
+       padding-right: 2%;
+       
+       
+       
+    }
+  }
+
+.saveReason{
+    
+    margin-top: 1%;
+    margin-left: 50%;
+}
+
+.reasonSettings{
+    display: flex;
+}
+
+.reasonInput{
+    
+    width: 75%;
+}

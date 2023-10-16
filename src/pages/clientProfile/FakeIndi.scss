@@ -1,0 +1,99 @@
+.addDoc{
+    
+  margin-left: 15%;
+}
+
+.LabelInput{
+    margin-left: 2%;
+}
+
+.infoColumn{
+    display: flex;
+    flex-direction: column;
+    margin-top: 4%;
+}
+
+.infoColumnSpacing{
+    margin-top: 1%;
+    font-size: 17px;
+}
+
+.addDocFormInput{
+    margin-left: 1%;
+}
+
+.addDocForm{
+    display: flex;
+   
+}
+
+.docRevoir{
+    margin-top: 5%;
+}
+
+.nameStatus{
+    display: flex;
+}
+
+.status{
+    margin-left: 75%;
+    font-size: 25px;
+
+}
+.uncomplete{
+    margin-left: 55%;
+    font-size: 25px;
+    background-color: rgba(255, 149, 0, 0.05);
+    color: orange;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+.lateStatus{
+    margin-left: 55%;
+    font-size: 25px;
+    background-color: rgba(255, 0, 0, 0.05);
+    color: crimson;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+.complete{
+    margin-left: 55%;
+    font-size: 25px;
+    background-color: rgba(85, 235, 44, 0.255);
+    color: green;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+.toNotify{
+    margin-left: 55%;
+    font-size: 25px;
+    background-color: rgba(255, 0, 0, 0.05);
+    color: crimson;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+.toRev{
+    margin-left: 55%;
+    font-size: 25px;
+    background-color: rgba(44, 124, 235, 0.255);
+    color: blue;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+
+.display {
+    display: flex;
+ 
+}
+
+.formDate{
+    margin-left: 10%;
+}

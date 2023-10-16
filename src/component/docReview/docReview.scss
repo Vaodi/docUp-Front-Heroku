@@ -1,0 +1,36 @@
+.boxWraper{
+    padding-top: 1%;
+    padding-right: 3%;
+    
+}
+
+.marginTop{
+    margin-top: 2%;
+}
+
+
+.box {
+   height: 100%;
+    border-radius: 10px;    
+    padding: 2%;
+    padding-left: 45px;
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+}
+
+.pending-status{
+    background-color: rgba(255, 0, 0, 0.05);
+    color: crimson;
+    border: 1px solid rgba(213, 5, 5, 0.286);
+    border-radius: 5px;
+   
+    
+    
+}
+.uploaded-status{
+    background-color: rgba(0, 128, 0, 0.05);
+    color: green;
+}
+
+
+
